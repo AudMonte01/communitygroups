@@ -25,7 +25,7 @@ Each of the steps above are now described in more detail.
 
 - [Best Practices](#best-practices)
   - [0. Create the Cloud Native Community Group](#0-create-the-cloud-native-community-group)
-  - [1. Start planning you event](#1-start-planning-you-event)
+  - [1. Start planning your event](#1-start-planning-you-event)
     - [Find Speakers](#find-speakers)
     - [Find sponsors/place](#find-sponsorsplace)
   - [2. Schedule a new event](#2-schedule-a-new-event)
@@ -52,7 +52,13 @@ A brief description of the role of the CNCF and the Cloud Native approach could 
 
 You can use text from the [Cloud Native Definition](https://github.com/cncf/toc/blob/master/DEFINITION.md).
 
-The most important thing is to keep an **active group**, with frequent events (ideally once a month). We encourage folks to run either online events or regular meetup events.
+The most important thing is to keep an **active group**, with frequent events (at least one every 90 days). We encourage folks to run either online events or regular meetup events. Here are some creative ways to gather that are outside the traditional speaker/audience format:
+* Study groups for cloud native certication exams
+* Writing session or tips and tricks into writing an event proposal
+* Blogathon and winner gets a blog on the CNCF blog
+* Monthly coworking events… can be virtual with cameras off
+* Workshops
+* Office Hours
 
 Sustaining a group yourself can be challenging to manage. Ideally, it would be best if you had a team of passionate and committed co-organizers.
 
