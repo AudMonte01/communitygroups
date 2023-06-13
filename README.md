@@ -73,6 +73,11 @@ The #socialmedia channel via the CNCF slack workspace is also a great place to p
 
 - If your group has more than 90 days of inactivity in the number of events/meetups being help, then you will be deemed an “Inactive” group via the Cloud Native Computing Foundation and removed from [community.cncf.io](https://community.cncf.io/)
 
+Should a community group violate vendor nuetrality, a CNCF core value, the following path towards deactivation will ocur.
+* 1st offence = a written violation via email
+* 2nd offence = a community meeting with organizers for final warning
+* 3rd offence = disabling your chapter
+
 #### Testing Video
 
 If you want to test video features, you can use: https://tokbox.com/developer/tools/precall/
@@ -88,3 +93,6 @@ Check out [the full doc here](https://github.com/cncf/communitygroups/blob/main/
 ## Code of Conduct
 
 Cloud Native Community Groups follow the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
+
+
+
